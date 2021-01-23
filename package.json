@@ -1,0 +1,21 @@
+{
+  "name": "hypixelguildchatbot",
+  "version": "1.0.0",
+  "description": "A bridge between the hypixel guild chat and discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hypixel",
+    "guild",
+    "discord"
+  ],
+  "author": "Altpapier",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1",
+    "mineflayer": "^2.40.1"
+  }
+}

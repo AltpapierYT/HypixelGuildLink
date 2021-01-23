@@ -1,0 +1,11 @@
+{
+    "username": "",
+    "password": "",
+    "discordbottoken": "",
+    "guildchatdiscordchannel": "",
+    "botstatusdiscordchannel": "",
+    "chatlogs": true,
+    "confirmsendmessage": true,
+    "messagedesign": 0,
+    "embedcolor": "BLURPLE"
+}
