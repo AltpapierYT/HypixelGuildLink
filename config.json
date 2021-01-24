@@ -6,6 +6,7 @@
     "botstatusdiscordchannel": "",
     "chatlogs": true,
     "confirmsendmessage": true,
+    "badwordfilter": true,
     "messagedesign": 0,
     "embedcolor": "BLURPLE"
 }
